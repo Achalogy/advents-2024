@@ -17,63 +17,63 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 
 ### Advent of Code 2024
 
-| 🎁 Día | Nombre del reto                                                 | Soluciones                                                                          |
-| ------ | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 🎁 Día | Nombre del reto                                           | Soluciones / Explicación                                                            |
+| ------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | 1      | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/1)     |
-| 2      | [No disponible](https://adventofcode.com/2024/day/2)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/2)  |
-| 3      | [No disponible](https://adventofcode.com/2024/day/3)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/3)  |
-| 4      | [No disponible](https://adventofcode.com/2024/day/4)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/4)  |
-| 5      | [No disponible](https://adventofcode.com/2024/day/5)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/5)  |
-| 6      | [No disponible](https://adventofcode.com/2024/day/6)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/6)  |
-| 7      | [No disponible](https://adventofcode.com/2024/day/7)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/7)  |
-| 8      | [No disponible](https://adventofcode.com/2024/day/8)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/8)  |
-| 9      | [No disponible](https://adventofcode.com/2024/day/9)            | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/9)  |
-| 10     | [No disponible](https://adventofcode.com/2024/day/10)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/10) |
-| 11     | [No disponible](https://adventofcode.com/2024/day/11)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/11) |
-| 12     | [No disponible](https://adventofcode.com/2024/day/12)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/12) |
-| 13     | [No disponible](https://adventofcode.com/2024/day/13)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/13) |
-| 14     | [No disponible](https://adventofcode.com/2024/day/14)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/14) |
-| 15     | [No disponible](https://adventofcode.com/2024/day/15)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/15) |
-| 16     | [No disponible](https://adventofcode.com/2024/day/16)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/16) |
-| 17     | [No disponible](https://adventofcode.com/2024/day/17)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/17) |
-| 18     | [No disponible](https://adventofcode.com/2024/day/18)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/18) |
-| 19     | [No disponible](https://adventofcode.com/2024/day/19)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/19) |
-| 20     | [No disponible](https://adventofcode.com/2024/day/20)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/20) |
-| 21     | [No disponible](https://adventofcode.com/2024/day/21)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/21) |
-| 22     | [No disponible](https://adventofcode.com/2024/day/22)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/22) |
-| 23     | [No disponible](https://adventofcode.com/2024/day/23)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/23) |
-| 24     | [No disponible](https://adventofcode.com/2024/day/24)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/24) |
-| 25     | [No disponible](https://adventofcode.com/2024/day/25)           | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/25) |
+| 2      | [No disponible](https://adventofcode.com/2024/day/2)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/2)  |
+| 3      | [No disponible](https://adventofcode.com/2024/day/3)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/3)  |
+| 4      | [No disponible](https://adventofcode.com/2024/day/4)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/4)  |
+| 5      | [No disponible](https://adventofcode.com/2024/day/5)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/5)  |
+| 6      | [No disponible](https://adventofcode.com/2024/day/6)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/6)  |
+| 7      | [No disponible](https://adventofcode.com/2024/day/7)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/7)  |
+| 8      | [No disponible](https://adventofcode.com/2024/day/8)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/8)  |
+| 9      | [No disponible](https://adventofcode.com/2024/day/9)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/9)  |
+| 10     | [No disponible](https://adventofcode.com/2024/day/10)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/10) |
+| 11     | [No disponible](https://adventofcode.com/2024/day/11)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/11) |
+| 12     | [No disponible](https://adventofcode.com/2024/day/12)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/12) |
+| 13     | [No disponible](https://adventofcode.com/2024/day/13)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/13) |
+| 14     | [No disponible](https://adventofcode.com/2024/day/14)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/14) |
+| 15     | [No disponible](https://adventofcode.com/2024/day/15)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/15) |
+| 16     | [No disponible](https://adventofcode.com/2024/day/16)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/16) |
+| 17     | [No disponible](https://adventofcode.com/2024/day/17)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/17) |
+| 18     | [No disponible](https://adventofcode.com/2024/day/18)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/18) |
+| 19     | [No disponible](https://adventofcode.com/2024/day/19)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/19) |
+| 20     | [No disponible](https://adventofcode.com/2024/day/20)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/20) |
+| 21     | [No disponible](https://adventofcode.com/2024/day/21)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/21) |
+| 22     | [No disponible](https://adventofcode.com/2024/day/22)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/22) |
+| 23     | [No disponible](https://adventofcode.com/2024/day/23)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/23) |
+| 24     | [No disponible](https://adventofcode.com/2024/day/24)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/24) |
+| 25     | [No disponible](https://adventofcode.com/2024/day/25)     | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/25) |
 
 ### AdventJS 2024
 
-| 🎁 Día | Nombre del reto                                              | Solución                                                                                |
-| ------ | ------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| 1      | [¡Primer regalo repetido!](https://adventjs.dev/challenges/2024/1) | [Solución](https://github.com/Achalogy/advents-2024/tree/main/adventjs/1/main.js)       |
-| 2      | [No disponible](https://adventofcode.com/2024/day/2)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/2/main.js)  |
-| 3      | [No disponible](https://adventofcode.com/2024/day/3)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/3/main.js)  |
-| 4      | [No disponible](https://adventofcode.com/2024/day/4)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/4/main.js)  |
-| 5      | [No disponible](https://adventofcode.com/2024/day/5)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/5/main.js)  |
-| 6      | [No disponible](https://adventofcode.com/2024/day/6)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/6/main.js)  |
-| 7      | [No disponible](https://adventofcode.com/2024/day/7)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/7/main.js)  |
-| 8      | [No disponible](https://adventofcode.com/2024/day/8)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/8/main.js)  |
-| 9      | [No disponible](https://adventofcode.com/2024/day/9)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/9/main.js)  |
-| 10     | [No disponible](https://adventofcode.com/2024/day/10)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/10/main.js) |
-| 11     | [No disponible](https://adventofcode.com/2024/day/11)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/11/main.js) |
-| 12     | [No disponible](https://adventofcode.com/2024/day/12)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/12/main.js) |
-| 13     | [No disponible](https://adventofcode.com/2024/day/13)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/13/main.js) |
-| 14     | [No disponible](https://adventofcode.com/2024/day/14)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/14/main.js) |
-| 15     | [No disponible](https://adventofcode.com/2024/day/15)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/15/main.js) |
-| 16     | [No disponible](https://adventofcode.com/2024/day/16)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/16/main.js) |
-| 17     | [No disponible](https://adventofcode.com/2024/day/17)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/17/main.js) |
-| 18     | [No disponible](https://adventofcode.com/2024/day/18)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/18/main.js) |
-| 19     | [No disponible](https://adventofcode.com/2024/day/19)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/19/main.js) |
-| 20     | [No disponible](https://adventofcode.com/2024/day/20)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/20/main.js) |
-| 21     | [No disponible](https://adventofcode.com/2024/day/21)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/21/main.js) |
-| 22     | [No disponible](https://adventofcode.com/2024/day/22)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/22/main.js) |
-| 23     | [No disponible](https://adventofcode.com/2024/day/23)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/23/main.js) |
-| 24     | [No disponible](https://adventofcode.com/2024/day/24)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/24/main.js) |
-| 25     | [No disponible](https://adventofcode.com/2024/day/25)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/25/main.js) |
+| 🎁 Día | Nombre del reto                                                    | Solución                                                                                | Explicación                                                                     |
+| ------ | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1      | [¡Primer regalo repetido!](https://adventjs.dev/challenges/2024/1) | [Solución](https://github.com/Achalogy/advents-2024/tree/main/adventjs/1/main.js)       | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/1)  |
+| 2      | [No disponible](https://adventofcode.com/2024/day/2)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/2/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/2)  |
+| 3      | [No disponible](https://adventofcode.com/2024/day/3)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/3/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/3)  |
+| 4      | [No disponible](https://adventofcode.com/2024/day/4)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/4/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/4)  |
+| 5      | [No disponible](https://adventofcode.com/2024/day/5)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/5/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/5)  |
+| 6      | [No disponible](https://adventofcode.com/2024/day/6)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/6/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/6)  |
+| 7      | [No disponible](https://adventofcode.com/2024/day/7)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/7/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/7)  |
+| 8      | [No disponible](https://adventofcode.com/2024/day/8)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/8/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/8)  |
+| 9      | [No disponible](https://adventofcode.com/2024/day/9)               | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/9/main.js)  | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/9)  |
+| 10     | [No disponible](https://adventofcode.com/2024/day/10)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/10/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/10) |
+| 11     | [No disponible](https://adventofcode.com/2024/day/11)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/11/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/11) |
+| 12     | [No disponible](https://adventofcode.com/2024/day/12)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/12/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/12) |
+| 13     | [No disponible](https://adventofcode.com/2024/day/13)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/13/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/13) |
+| 14     | [No disponible](https://adventofcode.com/2024/day/14)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/14/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/14) |
+| 15     | [No disponible](https://adventofcode.com/2024/day/15)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/15/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/15) |
+| 16     | [No disponible](https://adventofcode.com/2024/day/16)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/16/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/16) |
+| 17     | [No disponible](https://adventofcode.com/2024/day/17)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/17/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/17) |
+| 18     | [No disponible](https://adventofcode.com/2024/day/18)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/18/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/18) |
+| 19     | [No disponible](https://adventofcode.com/2024/day/19)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/19/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/19) |
+| 20     | [No disponible](https://adventofcode.com/2024/day/20)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/20/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/20) |
+| 21     | [No disponible](https://adventofcode.com/2024/day/21)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/21/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/21) |
+| 22     | [No disponible](https://adventofcode.com/2024/day/22)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/22/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/22) |
+| 23     | [No disponible](https://adventofcode.com/2024/day/23)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/23/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/23) |
+| 24     | [No disponible](https://adventofcode.com/2024/day/24)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/24/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/24) |
+| 25     | [No disponible](https://adventofcode.com/2024/day/25)              | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/25/main.js) | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/25) |
 
 ---
 
