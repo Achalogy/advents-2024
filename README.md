@@ -49,8 +49,8 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 
 | 🎁 Día | Nombre del reto                                              | Solución                                                                                |
 | ------ | ------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| 1      | [Historian Hysteria](https://adventjs.dev/challenges/2024/1) | [Solución](#)                                                                           |
-| 2      | [No disponible](https://adventofcode.com/2024/day/2)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/1/main.js)  |
+| 1      | [Historian Hysteria](https://adventjs.dev/challenges/2024/1) | [Solución](https://github.com/Achalogy/advents-2024/tree/main/adventjs/1/main.js)       |
+| 2      | [No disponible](https://adventofcode.com/2024/day/2)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/2/main.js)  |
 | 3      | [No disponible](https://adventofcode.com/2024/day/3)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/3/main.js)  |
 | 4      | [No disponible](https://adventofcode.com/2024/day/4)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/4/main.js)  |
 | 5      | [No disponible](https://adventofcode.com/2024/day/5)         | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventjs/5/main.js)  |
