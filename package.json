@@ -1,0 +1,14 @@
+{
+  "name": "advents",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
