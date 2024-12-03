@@ -21,7 +21,7 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 | ------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | 1      | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/1)     |
 | 2      | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/2)     |
-| 3      | [No disponible](https://adventofcode.com/2024/day/3)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/3)  |
+| 3      | [Mull It Over](https://adventofcode.com/2024/day/3)       | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/3)     |
 | 4      | [No disponible](https://adventofcode.com/2024/day/4)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/4)  |
 | 5      | [No disponible](https://adventofcode.com/2024/day/5)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/5)  |
 | 6      | [No disponible](https://adventofcode.com/2024/day/6)      | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/6)  |
