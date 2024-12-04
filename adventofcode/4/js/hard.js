@@ -4,13 +4,6 @@ const input = readFileSync('adventofcode/inputs/4.txt', {
   encoding: 'utf-8'
 })
 
-const next = {
-  "X": "M",
-  "M": "A",
-  "A": "S",
-  "S": true
-}
-
 let resp = 0;
 
 const matrix = input.split("\n").map(x => x.split("").map(y => y.trim()).filter(y => y));
