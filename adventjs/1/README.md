@@ -1,5 +1,7 @@
 # Reto #1: 🎁 ¡Primer regalo repetido!
 
+[VIDEO](https://youtu.be/cvAqHclA5XI)
+
 Con la función `prepareGifts` buscamos procesar una lista de números mágicos que representan regalos para Santa Claus, eliminando duplicados y ordenándolos en orden ascendente antes de entregárselos a los elfos.
 
 Esta función recibe como entrada un arreglo llamado `gifts`, que **puede contener números enteros duplicados**.
