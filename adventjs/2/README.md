@@ -1,6 +1,6 @@
 # Reto #2: 🖼️ Enmarcando nombres
 
-[NO DISPONIBLE](https://youtube.com/@achalogy)
+[VIDEO](https://youtu.be/TN1sGCM2kBo)
 
 Buscamos generar un marco rectangular para una serie de nombres, construyéndolo con asteriscos (`*`). Dado que el marco debe encerrar todos los nombres, debemos considerar el ancho del nombre más largo. Por ejemplo:
 
