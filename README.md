@@ -28,7 +28,7 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 | 7      | [Bridge Repair](https://adventofcode.com/2024/day/7)         | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/7)     |
 | 8      | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/8)     |
 | 9      | [Disk Fragmenter](https://adventofcode.com/2024/day/9)       | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/9)     |
-| 10     | [No disponible](https://adventofcode.com/2024/day/10)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/10) |
+| 10     | [Hoof It](https://adventofcode.com/2024/day/10)              | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/10)    |
 | 11     | [No disponible](https://adventofcode.com/2024/day/11)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/11) |
 | 12     | [No disponible](https://adventofcode.com/2024/day/12)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/12) |
 | 13     | [No disponible](https://adventofcode.com/2024/day/13)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/13) |
