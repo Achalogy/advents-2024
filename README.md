@@ -10,7 +10,7 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 - Contiene el código de la solución y, si aplica, notas o explicaciones sobre cómo fue resuelto el problema.
 - El repositorio está dividido en dos secciones principales: **Advent of Code** y **AdventJS**.
 - La carpeta del **Advent of Code** contiene una carpeta de inputs, en esta estan los inputs de test y los inputs asignados a mi usuario de github (con los que resolví el problema).
-
+- Los retos del **AdventJS** tienen una explicación en video en mi canal [Canal YouTube](https://youtube.com/@achalogy)
 ---
 
 ## 📜 Tabla de Contenidos
