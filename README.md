@@ -18,33 +18,33 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 
 ### Advent of Code 2024
 
-| 🎁 Día | Nombre del reto                                              | Soluciones / Explicación                                                            |
-| ------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| 1      | [Historian Hysteria](https://adventofcode.com/2024/day/1)    | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/1)     |
-| 2      | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)     | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/2)     |
-| 3      | [Mull It Over](https://adventofcode.com/2024/day/3)          | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/3)     |
-| 4      | [Ceres Search](https://adventofcode.com/2024/day/4)          | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/4)     |
-| 5      | [Print Queue](https://adventofcode.com/2024/day/5)           | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/5)     |
-| 6      | [Guard Gallivant](https://adventofcode.com/2024/day/6)       | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/6)     |
-| 7      | [Bridge Repair](https://adventofcode.com/2024/day/7)         | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/7)     |
-| 8      | [Resonant Collinearity](https://adventofcode.com/2024/day/8) | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/8)     |
-| 9      | [Disk Fragmenter](https://adventofcode.com/2024/day/9)       | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/9)     |
-| 10     | [Hoof It](https://adventofcode.com/2024/day/10)              | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/10)    |
-| 11     | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)    | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/11)    |
-| 12     | [No disponible](https://adventofcode.com/2024/day/12)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/12) |
-| 13     | [No disponible](https://adventofcode.com/2024/day/13)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/13) |
-| 14     | [No disponible](https://adventofcode.com/2024/day/14)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/14) |
-| 15     | [No disponible](https://adventofcode.com/2024/day/15)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/15) |
-| 16     | [No disponible](https://adventofcode.com/2024/day/16)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/16) |
-| 17     | [No disponible](https://adventofcode.com/2024/day/17)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/17) |
-| 18     | [No disponible](https://adventofcode.com/2024/day/18)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/18) |
-| 19     | [No disponible](https://adventofcode.com/2024/day/19)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/19) |
-| 20     | [No disponible](https://adventofcode.com/2024/day/20)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/20) |
-| 21     | [No disponible](https://adventofcode.com/2024/day/21)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/21) |
-| 22     | [No disponible](https://adventofcode.com/2024/day/22)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/22) |
-| 23     | [No disponible](https://adventofcode.com/2024/day/23)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/23) |
-| 24     | [No disponible](https://adventofcode.com/2024/day/24)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/24) |
-| 25     | [No disponible](https://adventofcode.com/2024/day/25)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/25) |
+| 🎁 Día | Nombre del reto                                                   | Soluciones / Explicación                                                            |
+| ------ | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 1      | [Historian Hysteria](https://adventofcode.com/2024/day/1)         | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/1)     |
+| 2      | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)          | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/2)     |
+| 3      | [Mull It Over](https://adventofcode.com/2024/day/3)               | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/3)     |
+| 4      | [Ceres Search](https://adventofcode.com/2024/day/4)               | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/4)     |
+| 5      | [Print Queue](https://adventofcode.com/2024/day/5)                | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/5)     |
+| 6      | [Guard Gallivant](https://adventofcode.com/2024/day/6)            | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/6)     |
+| 7      | [Bridge Repair](https://adventofcode.com/2024/day/7)              | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/7)     |
+| 8      | [Resonant Collinearity](https://adventofcode.com/2024/day/8)      | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/8)     |
+| 9      | [Disk Fragmenter](https://adventofcode.com/2024/day/9)            | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/9)     |
+| 10     | [Hoof It](https://adventofcode.com/2024/day/10)                   | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/10)    |
+| 11     | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)         | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/11)    |
+| 12     | [¿Cuánto cuesta el árbol?](https://adventofcode.com/2024/day/12)  | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/12)    |
+| 13     | [¿El robot está de vuelta?](https://adventofcode.com/2024/day/13) | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/13)    |
+| 14     | [No disponible](https://adventofcode.com/2024/day/14)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/14) |
+| 15     | [No disponible](https://adventofcode.com/2024/day/15)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/15) |
+| 16     | [No disponible](https://adventofcode.com/2024/day/16)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/16) |
+| 17     | [No disponible](https://adventofcode.com/2024/day/17)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/17) |
+| 18     | [No disponible](https://adventofcode.com/2024/day/18)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/18) |
+| 19     | [No disponible](https://adventofcode.com/2024/day/19)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/19) |
+| 20     | [No disponible](https://adventofcode.com/2024/day/20)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/20) |
+| 21     | [No disponible](https://adventofcode.com/2024/day/21)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/21) |
+| 22     | [No disponible](https://adventofcode.com/2024/day/22)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/22) |
+| 23     | [No disponible](https://adventofcode.com/2024/day/23)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/23) |
+| 24     | [No disponible](https://adventofcode.com/2024/day/24)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/24) |
+| 25     | [No disponible](https://adventofcode.com/2024/day/25)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/25) |
 
 ### AdventJS 2024
 
