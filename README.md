@@ -33,7 +33,7 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 | 11     | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)         | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/11)    |
 | 12     | [¿Cuánto cuesta el árbol?](https://adventofcode.com/2024/day/12)  | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/12)    |
 | 13     | [¿El robot está de vuelta?](https://adventofcode.com/2024/day/13) | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/13)    |
-| 14     | [No disponible](https://adventofcode.com/2024/day/14)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/14) |
+| 14     | [Acomodando los renos](https://adventofcode.com/2024/day/14)      | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/14)    |
 | 15     | [No disponible](https://adventofcode.com/2024/day/15)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/15) |
 | 16     | [No disponible](https://adventofcode.com/2024/day/16)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/16) |
 | 17     | [No disponible](https://adventofcode.com/2024/day/17)             | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/17) |
