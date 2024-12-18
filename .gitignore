@@ -176,3 +176,9 @@ dist
 
 # G++ outputs
 *.exe
+
+# Retos sin resolver
+adventofcode/12/js/hard.js
+adventofcode/13/js/hard.ts
+resp.txt
+revisar.txt
