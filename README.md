@@ -34,8 +34,8 @@ Este repositorio contiene mis soluciones para los calendarios de adviento de pro
 | 12     | [Garden Groups](https://adventofcode.com/2024/day/12)        | [Solución](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/12)      |
 | 13     | [Claw Contraption](https://adventofcode.com/2024/day/13)     | [Solución](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/13)      |
 | 14     | [Restroom Redoubt](https://adventofcode.com/2024/day/14)     | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/14)    |
-| 15     | [No disponible](https://adventofcode.com/2024/day/15)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/15) |
-| 16     | [No disponible](https://adventofcode.com/2024/day/16)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/16) |
+| 15     | [Warehouse Woes](https://adventofcode.com/2024/day/15)       | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/15)    |
+| 16     | [Reindeer Maze](https://adventofcode.com/2024/day/16)        | [Soluciones](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/16)    |
 | 17     | [No disponible](https://adventofcode.com/2024/day/17)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/17) |
 | 18     | [No disponible](https://adventofcode.com/2024/day/18)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/18) |
 | 19     | [No disponible](https://adventofcode.com/2024/day/19)        | [No disponible](https://github.com/Achalogy/advents-2024/tree/main/adventofcode/19) |
