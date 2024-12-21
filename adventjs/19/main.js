@@ -15,13 +15,11 @@ function distributeWeight(weight) {
     for (let i = 0; i < boxRepresentations[num].at(-1).length; i++) {
       rn[i] = boxRepresentations[num]?.at(-1)[i]
     }
-    r[0] = rn.join("")
+    r[0] = rn.join("").trim()
     r.unshift(...boxRepresentations[num].slice(0, -1))
 
     weight -= num
   }
 
-  
-  return r.map(x => x.trimEnd()).join("\n")
+  return r.join("\n")
 }
-console.log(distributeWeight(3).split("\n"))
